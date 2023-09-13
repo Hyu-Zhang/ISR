@@ -1,4 +1,4 @@
-# ITR
+# Uncovering Hidden Connections: Iterative Tracking and Reasoning for Video-grounded Dialog
 
 ## Data
 
