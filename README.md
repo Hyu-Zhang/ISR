@@ -8,3 +8,9 @@ If you need the raw video data, you can access this [website](https://prior.alle
 
 https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test.tar [13GB]  
 https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_test_480.tar [2GB]
+
+We use Faster-RCNN to extract the object features of each frame, and the data link is as follows:
+
+## Code
+
+We will release the code used after the paper is received. 
