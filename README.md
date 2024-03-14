@@ -1,6 +1,6 @@
-# ITR
+# ISR
 
-Official Implementation of "Uncovering Hidden Connections: Iterative Tracking and Reasoning for Video-grounded Dialog".
+Official Implementation of "Uncovering Hidden Connections: Iterative Search and Reasoning for Video-grounded Dialog".
 
 ![](framework.jpg)
 
