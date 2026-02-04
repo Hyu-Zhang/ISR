@@ -18,4 +18,4 @@ https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_vu17_te
 
 ## Code
 
-We will release the code used after the paper is received. 
+We have released the code used. 
